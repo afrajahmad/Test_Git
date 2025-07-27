@@ -1,0 +1,4 @@
+Git testing
+created file from vi command
+testing
+test
